@@ -31,3 +31,5 @@ Standard for React apps; enables clean page navigation (/passenger, /driver, /se
 
 /// Testing: Vitest + React Testing Library ///
 Vitest: Blazing fast, Vite-native test runner.
+
+/// If you replace <MapPlaceholder/> with <Map/> in <RideCard/>, a live map will appear ///
